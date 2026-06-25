@@ -19,3 +19,6 @@ There are 4 power pellets placed in the corners of the map. Collecting one:
 - ➡ Arrow Right
 - Any key - Restart after Game Over
 
+![image alt](https://github.com/m-gonzales/pacman-game/blob/29a7e8f240630d8b169a3e740b5e014d3066e883/screenshot1.png)
+<br>
+![image alt](https://github.com/m-gonzales/pacman-game/blob/29a7e8f240630d8b169a3e740b5e014d3066e883/screenshot2.png)
